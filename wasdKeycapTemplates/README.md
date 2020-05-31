@@ -23,7 +23,7 @@ Click On NEXT >>
 
 ## Choose colours
 
-If you want your keycaps to look similar to the original A2000 Cherry keyboard, then use the colour map tool to choose colours using this template. 
+If you want your keycaps to look similar to the original A2000 Cherry keyboard, then use the colour map tool to choose colours using this template. WASD will use this template when picking your keycaps. 
 
 ![](colourTemplate.JPG)
 
