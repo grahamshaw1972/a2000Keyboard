@@ -11,13 +11,11 @@ First, download the file with your keycap template from the toUpload directory i
 
 ## Register with WASD. 
 
-[WASD Create New Customer Account]: https://www.wasdkeyboards.com/customer/account/create/
-
-
+https://www.wasdkeyboards.com/customer/account/create/
 
 ## Select 105-Key ISO Custom Cherry MX Keycap Set
 
-[105-Key ISO Custom Cherry MX Keycap Set]: https://www.wasdkeyboards.com/105-key-iso-custom-cherry-mx-keycap-set.html
+https://www.wasdkeyboards.com/105-key-iso-custom-cherry-mx-keycap-set.html
 
 NB - ISO 105 Key layout is the closest to the original Amiga 2000 layout. It is the only option that will work.
 
