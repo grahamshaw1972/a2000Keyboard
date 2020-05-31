@@ -1,0 +1,1 @@
+Use Intel 2732A @DIP24 as the IC type.

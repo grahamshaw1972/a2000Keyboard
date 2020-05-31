@@ -118,10 +118,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1000.6537"
-     inkscape:cy="181.29742"
+     inkscape:cx="176.98739"
+     inkscape:cy="237.17669"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer43"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -5866,6 +5866,30 @@
          x="1298.3777"
          y="240.91925"
          id="tspan27576-1">6</tspan>
+    </text>
+    <text
+       id="text27650-6"
+       x="55.042912"
+       y="233.84616"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;stroke-width:1.0666666"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0666666"
+         x="55.042912"
+         y="233.84616"
+         id="tspan27652-0">~</tspan>
+    </text>
+    <text
+       id="text27654-1"
+       x="55.003933"
+       y="264.5163"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;stroke-width:1.0666666"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0666666"
+         x="55.003933"
+         y="264.5163"
+         id="tspan27656-4">`</tspan>
     </text>
   </g>
   <g
