@@ -1,5 +1,5 @@
 # Keyboard Layouts
-Keyboard Layout Editor was used to design the keyboard layouts for this project. I provides a simple way to design Keyboard layouts. Output files are JSON. These can be uploaded and downloaded to the website.
+Keyboard Layout Editor was used to design the keyboard layouts for this project. It provides a simple way to design Keyboard layouts. Output files are JSON. These can be uploaded and downloaded to the website.
 
 http://www.keyboard-layout-editor.com/
 
