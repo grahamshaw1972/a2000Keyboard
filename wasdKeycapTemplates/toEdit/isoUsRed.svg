@@ -117,16 +117,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="176.98739"
-     inkscape:cy="237.17669"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1377.3057"
+     inkscape:cy="361.61279"
      inkscape:document-units="px"
-     inkscape:current-layer="layer43"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="-8"
+     inkscape:window-height="1177"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
@@ -5230,18 +5230,6 @@
          x="1461.6051"
          y="312.62573"
          id="tspan27572">5</tspan>
-    </text>
-    <text
-       id="text27574"
-       x="1533.7821"
-       y="312.85172"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:1.0666666"
-       transform="scale(0.99911986,1.0008809)">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0666666"
-         x="1533.7821"
-         y="312.85172"
-         id="tspan27576">6</tspan>
     </text>
     <text
        id="text27578"
@@ -27943,13 +27931,15 @@
     </text>
     <text
        id="text24322"
-       x="1297.7926"
-       y="172.23521"
-       style="font-size:12.00000015px;display:inline;stroke-width:1.0666666;-inkscape-font-specification:'Arial, Normal';font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       transform="scale(0.99911985,1.0008809)">
+       x="1298.1686"
+       y="164.26518"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;stroke-width:1.0666666"
+       transform="scale(0.99911986,1.0008809)">
       <tspan
          sodipodi:role="line"
-         id="tspan5896">Del</tspan>
+         id="tspan5896"
+         x="1298.1686"
+         y="164.26518">Del</tspan>
     </text>
     <text
        id="text24328"
@@ -28156,6 +28146,16 @@
          x="1389.8724"
          y="323.16815">Lock</tspan>
     </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 1537.4762,299.6995 4.3364,4.34413 h -3.474 v 13.008 h -1.7249 v -13.008 h -3.4738 z"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672"
+       id="path24390-4" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 1474.4249,253.63085 h -1.3417 v -6.73852 h 1.3417 z m -2.2422,-3.37852 -3.3666,3.37852 v -2.70652 h -7.8631 v -1.34402 h 7.8631 v -2.68798 z m -11.2297,-3.37854 v -6.73894 h 1.3416 v 6.73894 z m 2.2423,-3.36 3.3661,-3.37894 v 2.70694 h 7.8635 v 1.344 h -7.8635 v 2.70654 z"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672"
+       id="path24424-9-3" />
   </g>
   <g
      inkscape:groupmode="layer"
