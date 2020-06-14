@@ -13,6 +13,10 @@ Once Printed and built, the PCB looks like this example. This one was built usin
 
 
 
+The reconstructed keyboard looks like this:
+
+![](reconstructed.JPG)
+
 ## Project phases
 
 1. Clone PCB and build a clone keyboard from new components
